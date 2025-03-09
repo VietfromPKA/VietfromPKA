@@ -17,7 +17,8 @@ Tôi là **VietfromPKA**, tên thật của tôi là **Vũ Quốc Việt**. Tôi
 ## 📜 Chứng chỉ
 - [**CSE702049 - Quản trị dự án công nghệ thông tin**](https://www.credly.com/badges/49e72db8-7e3b-4a41-87fd-ebc57a713866)
 - [**Google Project Management Professional Certificate**](https://www.credly.com/badges/9038086c-86ac-47af-bb76-41d2dc8ea710)
-- [**CSE702051 - Thiết kế web nâng cao**](https://www.credly.com/badges/87d72372-d761-4fa8-aa0f-84b98f345e95/public_url)
+- [**Mastering Laravel Framework and PHP**](https://coursera.org/share/f79f79c3a445e25967b5a1bcfedab7c5)
+- [**Software Security for Web Applications**](https://coursera.org/share/f00f7cc2c72a76c62307659a77be1bff)
 
 ## 🏆 Vai trò
 - **Founder/Manager:** Phenikaa TechLearn Club - Một câu lạc bộ học tập về công nghệ thông tin tại Đại học Phenikaa. Câu lạc bộ tập trung vào việc học hỏi và chia sẻ kiến thức giữa các thành viên, tạo ra một môi trường hỗ trợ lẫn nhau trong việc học tập các chủ đề về công nghệ.
